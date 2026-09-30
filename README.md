@@ -1,3 +1,5 @@
+![macarchy-touchbar banner](.github/banner.png)
+
 # macarchy-touchbar
 
 ![macarchy-touchbar driving the Touch Bar: the default layout, the terminal layout, and the media, display and system groups opening in place](docs/media/touchbar.gif)
